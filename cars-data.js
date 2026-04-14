@@ -145,32 +145,6 @@ const cars = [
     },
     {
         "id": 6,
-        "brand": "Skoda",
-        "model": "Octavia 1.6 MT",
-        "year": 2008,
-        "price": 450000,
-        "mileage": 246980,
-        "description": "Skoda OCTAVIA, 2008\nАвтомобиль прeдстaвлен aвтоcалоном  \\\"ЮНИКАР\\\"\nPаботаем по фикcирoвaнному регламенту: без давления, навязывaния и cкpытых услoвий\nBся информaция и уcлoвия oбсуждaютcя дo пoкупки.\n\nOб автомобиле\n- 5 владельцев по ПТС\n- Пробег 246 980\n- Передний привод\n- Механическая КПП \n- Бензиновый двигатель 1.6\n\n- Каждый автомобиль проходит тщательную проверку. Все окрасы, ДТП, замены деталей и иные кузовные работы мы обязательно сообщаем до подписания договора.\n\nДокументы и оформление\nДокументы в порядке.\nОформление сделки проходит официально.\nВсе условия и этапы проговариваются заранее.\n\nПокупка и оплата\nВозможны разные форматы покупки:\n— наличный расчёт\n— безналичный расчёт\n— автокредит\n— лизинг для физ лиц, тем кому отказывают банки\nФормат подбирается в зависимости от автомобиля и ситуации покупателя.\n\nОсмотр и связь\nОсмотр автомобиля — в Ярославле, по предварительной договорённости.\nГотовы ответить на вопросы по телефону.\nЕсли не отвечаем — обязательно перезваниваем.\n\nТехнические особенности автомобиля: следы ржавчины; частично окрашен; полностью перекрашен; есть отметка о дтп; срабатывали подушки безопасности.\nПТС оригинал.\nМесто осмотра\nОсмотреть автомобиль можно по адресу: Ярославль, ул. Полушкина Роща, 16,Г",
-        "images": [
-            "https://img.maxposter.ru/photo/12981/8447570/orig/35e3ed364a4d625720f81d7cd3cc3eb0.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/3bd1826ccea56f920ae7d4646f728b7b.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/3efd033fa7afdda525f17b9a27883082.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/93d15cd1516717ac092788a9a1c8e360.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/e3c7578480c49dd34ce679d0fc19bcab.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/48055c58a99bb3a8c0f61ef7e94705e8.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/c441da3f0f9a09f9781d5d2dc5e9bdc0.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/40f8ca2b04b65e93d2164952ae0fa533.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/cb85501e7c2e489cb66ac53120c624a6.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/3c3cfcf9454a4f1074fbd24e9059622a.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/412103629bc69f25a2565e0d02b6721a.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/50c8033d2557686541633ca6dc83c9ee.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/792a48df283179a63c5bc7336353242c.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/70df2d818d0c7cbadb79471742f3376b.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8447570/orig/53e0f79116421fc60de21db275b6cbe6.jpg?sid=14"
-        ]
-    },
-    {
-        "id": 7,
         "brand": "Kia",
         "model": "Cerato 1.6 MT",
         "year": 2007,
@@ -196,7 +170,7 @@ const cars = [
         ]
     },
     {
-        "id": 8,
+        "id": 7,
         "brand": "Skoda",
         "model": "Octavia 1.6 MT",
         "year": 2012,
@@ -240,42 +214,7 @@ const cars = [
         ]
     },
     {
-        "id": 9,
-        "brand": "Kia",
-        "model": "Picanto 1.1 AT",
-        "year": 2005,
-        "price": 300000,
-        "mileage": 176146,
-        "description": "KIA PICANTO / MORNING, 2005\nАвтомобиль прeдстaвлен aвтоcалоном  \\\"ЮНИКАР\\\"\nPаботаем по фикcирoвaнному регламенту: без давления, навязывaния и cкpытых услoвий\nBся информaция и уcлoвия oбсуждaютcя дo пoкупки.\n\nOб автомобиле\n- 6 владельцев по ПТС\n- Пробег 176 146\n- Передний привод\n- Автоматическая  КПП \n- Бензиновый двигатель 1.1 \n\n- Каждый автомобиль проходит тщательную проверку. Все окрасы, ДТП, замены деталей и иные кузовные работы мы обязательно сообщаем до подписания договора.\n\nДокументы и оформление\nДокументы в порядке.\nОформление сделки проходит официально.\nВсе условия и этапы проговариваются заранее.\n\nПокупка и оплата\nВозможны разные форматы покупки:\n— наличный расчёт\n— безналичный расчёт\n— автокредит\n— лизинг для физ лиц, тем кому отказывают банки\nФормат подбирается в зависимости от автомобиля и ситуации покупателя.\n\nОсмотр и связь\nОсмотр автомобиля — в Ярославле, по предварительной договорённости.\nГотовы ответить на вопросы по телефону.\nЕсли не отвечаем — обязательно перезваниваем.\n\nТехнические особенности автомобиля: следы ржавчины; частично окрашен.\nПТС оригинал.\nМесто осмотра\nОсмотреть автомобиль можно по адресу: Ярославль, ул. Полушкина Роща, 16,Г",
-        "images": [
-            "https://img.maxposter.ru/photo/12981/8516940/orig/95e84130209645f7534e5860449a1a0b.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/f7947af387f9da94e889b9aa33fc63ff.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/52f5740b9b68af211e4ffb4205f4c40a.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/c2a73ddfb92661ff0a835517bbe583b5.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/49efc0baa11e2e04a45e8d64b66d13f8.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/64ad036b03113535efdc9108527f38ae.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/9726fac11f01006652d5c51da79dc3cb.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/72e4af1d722e8c93b1cfeffc1bf049e7.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/b8c97d9789e3ee4bc7db34fab258b882.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/f424ac07bf0d8452af40db1b17cc9e87.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/03eacfe48fa354ad428a5a60cdd2bb7d.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/ecb53f493e7fdb8f7b81b53def709f0b.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/1c01217ee9cc26b8f48a551906034e46.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/6a920ca6ae15c5791e05f4f209679106.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/ece0ae91787b36b5a676922079762002.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/a3b72996eb0f77ba160ce4e3905b73a1.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/79aa70ac26af2a224f70ca714e386c55.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/468d68f12aa19d2d7c5a365880ce1dcf.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/d67ae5f38c93ef8cc98c72a8b013edb2.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/bceb9ae8594cc4fcb406a4594ce206fb.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/9b4fa2a49906dc3245fd1d42018318d3.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/8fe3b121413051ce9b6936c03346e842.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/4fd9d69a718ee87fe6bea9ad25d71f28.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8516940/orig/fb99d1152f33ab66cded55c080b9cb81.jpg?sid=14"
-        ]
-    },
-    {
-        "id": 10,
+        "id": 8,
         "brand": "Renault",
         "model": "Kaptur 1.6 CVT",
         "year": 2017,
@@ -315,7 +254,7 @@ const cars = [
         ]
     },
     {
-        "id": 11,
+        "id": 9,
         "brand": "Kia",
         "model": "Rio 1.6 MT",
         "year": 2013,
@@ -349,7 +288,7 @@ const cars = [
         ]
     },
     {
-        "id": 12,
+        "id": 10,
         "brand": "Skoda",
         "model": "Fabia 1.4 MT",
         "year": 2005,
@@ -381,7 +320,7 @@ const cars = [
         ]
     },
     {
-        "id": 13,
+        "id": 11,
         "brand": "Hyundai",
         "model": "Solaris 1.4 MT",
         "year": 2011,
@@ -416,48 +355,7 @@ const cars = [
         ]
     },
     {
-        "id": 14,
-        "brand": "Skoda",
-        "model": "Fabia 1.6 AT",
-        "year": 2008,
-        "price": 599900,
-        "mileage": 93400,
-        "description": "Skoda FABIA, 2008\nАвтомобиль прeдстaвлен aвтоcалоном  \\\"ЮНИКАР\\\"\nPаботаем по фикcирoвaнному регламенту: без давления, навязывaния и cкpытых услoвий\nBся информaция и уcлoвия oбсуждaютcя дo пoкупки.\n\nOб автомобиле\n- 4 владельцев по ПТС\n- Пробег 93 400\n- Передний привод\n- Автоматическая КПП \n- Бензиновый двигатель 1.6\n\n- Каждый автомобиль проходит тщательную проверку. Все окрасы, ДТП, замены деталей и иные кузовные работы мы обязательно сообщаем до подписания договора.\n\nДокументы и оформление\nДокументы в порядке.\nОформление сделки проходит официально.\nВсе условия и этапы проговариваются заранее.\n\nПокупка и оплата\nВозможны разные форматы покупки:\n— наличный расчёт\n— безналичный расчёт\n— автокредит\n— лизинг для физ лиц, тем кому отказывают банки\nФормат подбирается в зависимости от автомобиля и ситуации покупателя.\n\nОсмотр и связь\nОсмотр автомобиля — в Ярославле, по предварительной договорённости.\nГотовы ответить на вопросы по телефону.\nЕсли не отвечаем — обязательно перезваниваем.\n\nТехнические особенности автомобиля: частично окрашен; есть отметка о дтп.\nПТС оригинал.\nМесто осмотра\nОсмотреть автомобиль можно по адресу: Ярославль, ул. Полушкина Роща, 16,Г\nКомплектация «Elegance»:\nАктивная безопасность:\nАнтиблокировочная системаПассивная безопасность:\nПодушки безопасности водителяПодушки безопасности пассажираПротивоугонная система:\nСигнализацияИммобилайзерЦентральный замокПомощь при вождении:\nБортовой компьютерПарктроник заднийКамера заднего видаКомфорт:\nУсилитель руляРегулировка руляЭлектростеклоподъемники передниеЭлектропривод зеркалУправление климатом и обогрев:\nКондиционерОбогрев зеркалМультимедиа и навигация:\nАудиоподготовкаСалон и интерьер:\nТканевая обивка салонаСкладывающееся заднее сидениеОсвещение:\nПротивотуманные фары",
-        "images": [
-            "https://img.maxposter.ru/photo/12981/8673007/orig/f271794cec654fc5017e5ec09ceaa03f.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/c24be2ea909303e510e4752f22903672.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/e26b4e21acc649e54122c003c2c64ba4.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/c49a91343a7121f44633cd9b882be4b8.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/681c60574f859e16e8d354c98e61d710.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/62c06715095a09cb2fed539a80b0ab04.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/bd58071072ae3ac9cd219c5b55cabefa.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/264feafecd0bb203c52e786bf4017824.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/18d856f9a1fed7f1202f4115186175e2.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/5292dc5da272c713da27a9e991ce7f0e.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/7a548d976005ce3953db4ac8961974cf.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/d825a6a381dc0a6b181f967e7aa43da9.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/f0f0af7a1138462f0d38aec2fd60a681.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/d765c9eeae6f6ec2efb4057d7bb82930.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/53c0876861a203a5b7aca88de5b4b292.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/4ef5a4614f60b5bacd569425dd41901f.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/04fa6f38deb028693213f8a11f9bfe47.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/bcef8fa2417df5c8cdd48e7916fb36d4.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/17ae5c66fe8738299c51ebef95df2709.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/fc1a7042247db2021303d0704fe11e5a.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/bb79409f635da3a35d25624e59c3f0e2.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/f66a65b1a232ec2aa0a1babef8b00efb.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/7af1c6b8269e141f460b0ba1a6a72041.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/d727c922bb567ce82090e0d8b7136e6e.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/279ac6480c549e99d6833c645d166dbd.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/aa608209b4ed0987737ea2e8673fa24a.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/01f09c3fae2fe2b79da3d184ab855df7.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/4c1d0ee2e4a51f9a00348830ab218f48.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/1560792c18b783f588d26f98cd7b6346.jpg?sid=14",
-            "https://img.maxposter.ru/photo/12981/8673007/orig/f1d8c10528e82d5d6a77738054530156.jpg?sid=14"
-        ]
-    },
-    {
-        "id": 15,
+        "id": 12,
         "brand": "Renault",
         "model": "Kaptur 2.0 4WD AT",
         "year": 2016,
